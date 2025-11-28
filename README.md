@@ -16,7 +16,7 @@ Desenvolvedora backend iniciante, estudando **Análise e Desenvolvimento de Sist
 ## Onde me encontrar
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/]
-- 🌐 Portfólio: [seu-site-aqui]
+- 🌐 Portfólio: [https://vicbaltazar.github.io/portfolio/]
 - 📧 E-mail: [vicbaltazar287@icloud.com]
 
 Sempre aberta a feedback sobre código, currículo e carreira na área de desenvolvimento backend.
