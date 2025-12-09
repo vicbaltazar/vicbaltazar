@@ -8,7 +8,7 @@
 
 ## 🪪 Trainer Card
 
-- 👤 Nome: Vitória “vicbaltazar” Baltazar  
+- 👤 Nome: Vitória Baltazar  
 - 🧬 Classe: Desenvolvedora backend iniciante  
 - 🌍 Região: Ribeirão Preto – SP.BR  
 - 🎓 Estudando: Análise e Desenvolvimento de Sistemas (ADS)  
