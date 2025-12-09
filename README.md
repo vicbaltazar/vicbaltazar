@@ -1,7 +1,5 @@
 <!-- Capa da Pokédex -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="96" alt="Pikachu sprite">
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="96" alt="Mimikyu sprite"> </p>
 
 <h1 align="center">Vitória Baltazar · Pokédex da Dev 🔴</h1>
 <p align="center">Estudante de ADS | Python, JSON e web | projetos com dinossauros, músicas e jogos</p>
@@ -12,7 +10,7 @@
 
 - 👤 Nome: Vitória “vicbaltazar” Baltazar  
 - 🧬 Classe: Desenvolvedora backend iniciante  
-- 🌍 Região: São Paulo – BR  
+- 🌍 Região: Ribeirão Preto – SP.BR  
 - 🎓 Estudando: Análise e Desenvolvimento de Sistemas (ADS)  
 - 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados)  
 - 💡 Gosto de criar projetos temáticos (dinossauros, música, jogos)
@@ -41,11 +39,11 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
 
 | Nº   | Projeto                                                                 | Tipo                | Status        |
 |------|-------------------------------------------------------------------------|---------------------|---------------|
-| #001 | [Blog Jurássico](https://github.com/vicbaltazar/blog-jurassico)        | HTML · CSS · Python | ✅ Ativo      |
+| #001 | [Blog Jurássico](https://github.com/vicbaltazar/blog-jurassico)        | HTML · CSS · Python | 🔄 Em evolução      |
 | #002 | [Sistema Bancário em Python](https://github.com/vicbaltazar/sist-banco) | Python              | ✅ Ativo      |
-| #003 | [Recomendação de Músicas](https://github.com/vicbaltazar/recom-musicas) | Python · JSON       | 🔄 Em evolução |
-| #004 | [Pokédex JSON](https://github.com/vicbaltazar/pokedex-json)            | JSON · NoSQL        | 🔄 Em evolução |
-| #005 | [Meu Portfólio](https://github.com/vicbaltazar/meu-portfolio)          | HTML · CSS          | ✅ Online     |
+| #003 | [Pokédex no Power BI](https://github.com/vicbaltazar/pokemonfy) | PowerBI · JavaScript       | ✅ Ativo |
+| #004 | [Pokédex JSON](https://github.com/vicbaltazar/pokedex-json)            | JSON · NoSQL        | ✅ Ativo |
+| #005 | [Meu Portfólio](https://github.com/vicbaltazar/pokefolio)          | HTML · CSS          | 🔄 Em evolução     |
 
 ---
 
@@ -81,7 +79,7 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
 
 ## 📡 Centro Pokémon (Contatos)
 
-- 💼 LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)  
-- 🌐 Portfólio: [vicbaltazar.github.io/portfolio](https://vicbaltazar.github.io/portfolio/)  
+- 💼 LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/).
+- 🌐 Portfólio: [vicbaltazar.github.io/portfolio](https://vicbaltazar.github.io/portfolio/).  
 - 📧 E-mail: vicbaltazar287@icloud.com  
 
