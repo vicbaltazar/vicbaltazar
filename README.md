@@ -28,7 +28,7 @@
 
 **Ferramentas favoritas**
 
-- VS Code · GitHub · Netlify  
+- VS Code · GitHub · PowerBI   
 - SQLite / bancos de dados iniciais  
 
 ---
