@@ -73,20 +73,22 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
 <!-- Exemplo de card de stats do GitHub Readme Stats -->
 <div align="center">
 
-  <!-- Stats principais -->
+  <!-- Card de stats -->
   <img
-    width="48%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
-    alt="Vitória Baltazar github stats"
+    width="48%"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vicbaltazar&theme=radical"
+    alt="GitHub stats da Vitória"
   />
 
-  <!-- Linguagens mais usadas -->
+  <!-- Card de linguagens -->
   <img
-    width="48%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+    width="48%"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vicbaltazar&theme=radical"
+    alt="Linguagens mais usadas da Vitória"
   />
 
 </div>
+
 
 ---
 
