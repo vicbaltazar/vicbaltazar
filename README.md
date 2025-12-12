@@ -75,7 +75,8 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
 alt="Rafaela Botelho github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div><img width="634" height="162" alt="image" src="https://github.com/user-attachments/assets/61af765f-36d9-4902-a9a7-926a154abfcb" />
+<img width="634" height="162" alt="image" src="https://github.com/user-attachments/assets/61af765f-36d9-4902-a9a7-926a154abfcb" />
+</div>
 
 ---
 
