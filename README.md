@@ -40,9 +40,9 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
 | Nº   | Projeto                                                                 | Tipo                | Status        |
 |------|-------------------------------------------------------------------------|---------------------|---------------|
 | #001 | [Blog Jurássico](https://github.com/vicbaltazar/blog-jurassico)        | HTML · CSS · Python | 🔄 Em evolução      |
-| #002 | [Sistema Bancário em Python](https://github.com/vicbaltazar/meus-projetos/blob/main/sistema_bancario.py) | Python              | ✅ Ativo      |
+| #002 | [Sistema Bancário em Python](https://github.com/vicbaltazar/sistema_bancario) | Python              | ✅ Ativo      |
 | #003 | [Pokédex no Power BI](https://github.com/vicbaltazar/powerbi-pokemon) | PowerBI · JavaScript       | ✅ Ativo |
-| #004 | [Pokédex JSON](https://github.com/vicbaltazar/meus-projetos/blob/main/Pokedex.json)            | JSON · NoSQL        | ✅ Ativo |
+| #004 | [Pokédex JS](https://github.com/vicbaltazar/pokedex_js)            | JavaScript · NoSQL        | ✅ Ativo |
 | #005 | [Meu Portfólio](https://github.com/vicbaltazar/pokefolio)          | HTML · CSS          | 🔄 Em evolução     |
 
 ---
