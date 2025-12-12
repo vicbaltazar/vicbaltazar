@@ -72,7 +72,7 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
 
 <!-- Exemplo de card de stats do GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicbaltazar&show_icons=true&theme=radical" alt="GitHub stats da Vitória">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vicbaltazar&theme=radical" alt="GitHub stats da Vitória">
 </p>
 
 ---
