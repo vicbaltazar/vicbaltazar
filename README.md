@@ -13,7 +13,7 @@
 - 🧬 Classe: Desenvolvedora backend  
 - 🌍 Região: Ribeirão Preto – SP.BR  
 - 🎓 Estudando: Análise e Desenvolvimento de Sistemas (ADS)  
-- 🎯 Foco atual: - 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
+- 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
 - 💡 Gosto de criar projetos temáticos (pokémons, música, jogos)
 
 ---
