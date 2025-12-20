@@ -41,12 +41,12 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
 
 | Nº   | Projeto                                                                 | Tipo                | Status        |
 |------|-------------------------------------------------------------------------|---------------------|---------------|
-| #001 | [Café Moranguinho](https://github.com/vicbaltazar/cafe-moranguinho)    | HTML · CSS                | ✅ Ativo      |
-| #002 | [Sistema Bancário em Python](https://github.com/vicbaltazar/sistema_bancario) | Python              | ✅ Ativo      |
-| #003 | [Pokédex no Power BI](https://github.com/vicbaltazar/powerbi-pokemon) | PowerBI · JavaScript       | ✅ Ativo |
-| #004 | [Pokédex JS](https://github.com/vicbaltazar/pokedex_js)            | JavaScript · NoSQL        | ✅ Ativo |
-| #005 | [Meu Portfólio](https://github.com/vicbaltazar/pokefolio)          | HTML · CSS          | 🔄 Em evolução     |
-| #006 | [Pokémon Task Tracker](https://github.com/vicbaltazar/pokemon-task-tracker) | JavaScript · LocalStorage | ✅ Ativo      |
+| #001 | [filmes-list · Monster High](https://github.com/vicbaltazar/filmes-list) | JavaScript · LocalStorage · HTML · CSS | 🔄 Em evolução |
+| #002 | [Sistema Bancário em Python](https://github.com/vicbaltazar/sistema_bancario) | Python | ✅ Ativo |
+| #003 | [Pokédex no Power BI](https://github.com/vicbaltazar/powerbi-pokemon) | PowerBI · JavaScript | ✅ Ativo |
+| #004 | [Pokédex JS](https://github.com/vicbaltazar/pokedex_js) | JavaScript · NoSQL | ✅ Ativo |
+| #005 | [Meu Portfólio](https://github.com/vicbaltazar/pokefolio) | HTML · CSS | 🔄 Em evolução |
+| #006 | [Pokémon Task Tracker](https://github.com/vicbaltazar/pokemon-task-tracker) | JavaScript · LocalStorage | ✅ Ativo |
 
 ---
 
