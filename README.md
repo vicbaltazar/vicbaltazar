@@ -148,7 +148,8 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
   title="Notion"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+/>
 
 ---
 
