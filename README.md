@@ -1,5 +1,5 @@
 <!-- Capa da Pokédex -->
-<p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="96" alt="Mimikyu sprite"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="200" alt="Mimikyu sprite"> </p>
 
 <h1 align="center">Vitória Baltazar · Pokédex da Dev 🔴</h1>
 <p align="center">Estudante de ADS | Python, JSON e web | projetos com dinossauros, músicas e jogos</p>
