@@ -151,6 +151,8 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
 />
 
+<br />
+
 ---
 
 ## 📊 Stats da Treinadora
