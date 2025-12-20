@@ -140,7 +140,7 @@ Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a fic
   title="Power BI"
   width="30px"
   style="padding-right: 8px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
+  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
 />
 <img
   align="left"
