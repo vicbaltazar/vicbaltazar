@@ -1,18 +1,8 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/vicbaltazar">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=480&lines=vic+yes+%F0%9F%90%BB;Backend+Python+%7C+JS+%7C+HTML%2FCSS;Pok%C3%A9dex%2C+APIs+e+muitos+commits"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
 <!-- Capa da Pokédex -->
 <p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="200" alt="Mimikyu sprite"> </p>
 
 <h1 align="center">Vitória Baltazar · Pokédex da Dev 🔴</h1>
-<p align="center">Estudante de ADS | Python, JSON e web | projetos com pokemon, músicas e jogos</p>
+<p align="center">Estudante de ADS | Python, JSON e web | projetos com pokémons, músicas e jogos</p>
 <p align="center">Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong></p>
 
 ---
