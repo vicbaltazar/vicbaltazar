@@ -1,6 +1,9 @@
 <h1 align="center">Vitória Baltazar · Pokédex da Dev 🔴</h1>
 <p align="center">Estudante de ADS | Python, JavaScript e web | projetos com Pokémon, música e jogos</p>
-<p align="center">Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong></p>
+<p align="center">
+  Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong><br/>
+  Portfólio: <a href="https://vicbaltazar.github.io/VitoriaCv/" target="_blank">vicbaltazar.github.io/VitoriaCv</a>
+</p>
 
 ---
 
@@ -122,5 +125,5 @@
 ## 📡 Centro Pokémon (Contatos)
 
 - 💼 LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)  
-- 🌐 Portfólio: [vicbaltazar.github.io/portfolio](https://vicbaltazar.github.io/VitoriaCv/)  
+- 🌐 Portfólio: [vicbaltazar.github.io/VitoriaCv](https://vicbaltazar.github.io/VitoriaCv/)  
 - 📧 E-mail: [vicbaltazar287@icloud.com](mailto:vicbaltazar287@icloud.com)
