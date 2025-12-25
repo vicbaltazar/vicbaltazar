@@ -9,7 +9,7 @@
 
 ---
 
-## 🪪 Trainer Card
+## 🌟 Trainer Card
 
 - 👤 Nome: Vitória Baltazar  
 - 🧬 Classe: Desenvolvedora backend em formação  
