@@ -2,9 +2,8 @@
 <p align="center">Estudante de ADS | Python, JavaScript e web | projetos com Pokémon, música e jogos</p>
 <p align="center">
   Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong><br/>
-  Portfólio: <a href="https://vicbaltazar.github.io/VitoriaCv/" target="_blank">vicbaltazar.github.io/VitoriaCv</a>
+  📄 <a href="https://github.com/vicbaltazar/pokefolio/blob/main/CvVitoria.pdf" target="_blank">Currículo em PDF</a>
 </p>
-
 ---
 
 ## 🌟 Trainer Card
@@ -119,11 +118,3 @@
     alt="Linguagens mais usadas"
   />
 </div>
-
----
-
-## 📡 Centro Pokémon (Contatos)
-
-- 💼 LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)  
-- 🌐 Portfólio: [vicbaltazar.github.io/VitoriaCv](https://vicbaltazar.github.io/VitoriaCv/)  
-- 📧 E-mail: [vicbaltazar287@icloud.com](mailto:vicbaltazar287@icloud.com)
