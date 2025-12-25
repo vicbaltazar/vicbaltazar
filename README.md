@@ -113,17 +113,16 @@
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
     alt="Vitória Baltazar GitHub stats"
   />
   <img
     width="41%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
     alt="Linguagens mais usadas"
   />
 </div>
-
 
 ---
 
