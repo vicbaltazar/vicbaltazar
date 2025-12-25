@@ -13,10 +13,8 @@
 
 - 👤 Nome: Vitória Baltazar  
 - 🧬 Classe: Desenvolvedora backend em formação  
-- 🌍 Região: Ribeirão Preto – SP, Brasil  
-- 🎓 Estudando: Análise e Desenvolvimento de Sistemas (ADS)  
+- 🌍 Região: Ribeirão Preto – SP, Brasil   
 - 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
-- 💡 Gosto de criar projetos temáticos (Pokémon, música, jogos)
 
 ---
 
