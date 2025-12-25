@@ -1,8 +1,10 @@
 <!-- Capa da Pokédex -->
-<p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="200" alt="Mimikyu sprite"> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="200" alt="Mimikyu sprite">
+</p>
 
 <h1 align="center">Vitória Baltazar · Pokédex da Dev 🔴</h1>
-<p align="center">Estudante de ADS | Python, JSON e web | projetos com pokémons, músicas e jogos</p>
+<p align="center">Estudante de ADS | Python, JavaScript e web | projetos com Pokémon, música e jogos</p>
 <p align="center">Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong></p>
 
 ---
@@ -10,17 +12,16 @@
 ## 🪪 Trainer Card
 
 - 👤 Nome: Vitória Baltazar  
-- 🧬 Classe: Desenvolvedora backend  
-- 🌍 Região: Ribeirão Preto – SP.BR  
+- 🧬 Classe: Desenvolvedora backend em formação  
+- 🌍 Região: Ribeirão Preto – SP, Brasil  
 - 🎓 Estudando: Análise e Desenvolvimento de Sistemas (ADS)  
 - 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
-- 💡 Gosto de criar projetos temáticos (pokémons, música, jogos)
+- 💡 Gosto de criar projetos temáticos (Pokémon, música, jogos)
 
 ---
 
 ## 🎖️ Badges (tipos da dev)
 
-<!-- Tech stack badges -->
 <img
   align="left"
   alt="HTML5"
@@ -39,7 +40,7 @@
 />
 <img
   align="left"
-  alt="JS"
+  alt="JavaScript"
   title="JavaScript"
   width="30px"
   style="padding-right: 10px;"
@@ -47,7 +48,7 @@
 />
 <img
   align="left"
-  alt="Node"
+  alt="Node.js"
   title="Node.js"
   width="30px"
   style="padding-right: 10px;"
@@ -108,18 +109,25 @@
 
 ## 📊 Stats da Treinadora
 
-<!-- Exemplo de card de stats do GitHub Readme Stats -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
-       alt="Vitória Baltazar GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img
+    width="49%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+    alt="Vitória Baltazar GitHub stats"
+  />
+  <img
+    width="41%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+    alt="Linguagens mais usadas"
+  />
 </div>
 
 ---
 
 ## 📡 Centro Pokémon (Contatos)
 
-- 💼 LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/).
-- 🌐 Portfólio: [vicbaltazar.github.io/portfolio](https://vicbaltazar.github.io/VitoriaCv/)
-- 📧 E-mail: vicbaltazar287@icloud.com  
-
+- 💼 LinkedIn: [linkedin.com/in/vitória-baltazar-3944a72ab](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)  
+- 🌐 Portfólio: [vicbaltazar.github.io/portfolio](https://vicbaltazar.github.io/VitoriaCv/)  
+- 📧 E-mail: [vicbaltazar287@icloud.com](mailto:vicbaltazar287@icloud.com)
