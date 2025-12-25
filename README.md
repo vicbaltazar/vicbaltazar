@@ -18,47 +18,6 @@
 
 ---
 
-## 🧪 Habilidades (Moveset)
-
-**Linguagens & Tecnologias**
-
-- Python · Lógica de programação · scripts de automação  
-- JSON · modelagem de dados · consumo/criação de APIs  
-- HTML / CSS · pequenos projetos web e interfaces simples  
-- Git & GitHub · versionamento · organização de portfólio
-- JavaScript · manipulação de DOM · consumo de APIs · projetos web temáticos
-
-**Ferramentas favoritas**
-
-- VS Code · GitHub · PowerBI   
-- SQLite / bancos de dados iniciais  
-
----
-
-## 🌟 Pokédex de Projetos
-
-Cada projeto é um “Pokémon” da sua Pokédex. Clique no nome para ver a ficha completa.
-
-| Nº   | Projeto                                                                 | Tipo                | Status        |
-|------|-------------------------------------------------------------------------|---------------------|---------------|
-| #001 | [filmes-list · Monster High](https://github.com/vicbaltazar/filmes-list) | JavaScript · LocalStorage · HTML · CSS | 🔄 Em evolução |
-| #002 | [Sistema Bancário em Python](https://github.com/vicbaltazar/sistema_bancario) | Python | ✅ Ativo |
-| #003 | [Pokédex no Power BI](https://github.com/vicbaltazar/powerbi-pokemon) | PowerBI · JavaScript | ✅ Ativo |
-| #004 | [Pokédex JS](https://github.com/vicbaltazar/pokedex_js) | JavaScript · NoSQL | ✅ Ativo |
-| #005 | [Meu Portfólio](https://github.com/vicbaltazar/pokefolio) | HTML · CSS | 🔄 Em evolução |
-| #006 | [Pokémon Task Tracker](https://github.com/vicbaltazar/pokemon-task-tracker) | JavaScript · LocalStorage | ✅ Ativo |
-
----
-
-## 🏋️‍♀️ Treino em andamento
-
-- Aprofundar **JavaScript** para projetos web (Pokédex, trackers, interfaces).  
-- Aprender mais sobre bancos de dados (**SQL e NoSQL**).  
-- Criar APIs em **Python** para consumir a PokéAPI e outros dados temáticos.  
-- Melhorar documentação dos projetos e criar testes automatizados básicos.  
-
----
-
 ## 🎖️ Badges (tipos da dev)
 
 <!-- Tech stack badges -->
