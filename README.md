@@ -1,4 +1,4 @@
-<h1 align="center">Vitória Baltazar · Pokédex da Dev 🔴</h1>
+<h1 align="center">Vitória Baltazar Dev 🔴</h1>
 <p align="center">Estudante de ADS | Python, JavaScript e web | projetos com Pokémon, música e jogos</p>
 <p align="center">
   Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong><br/>
@@ -7,8 +7,7 @@
 ---
 
 ## 🌟 Trainer Card
-
-- 👤 Nome: Vitória Baltazar  
+  
 - 🧬 Classe: Desenvolvedora backend em formação  
 - 🌍 Região: Ribeirão Preto – SP, Brasil   
 - 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
