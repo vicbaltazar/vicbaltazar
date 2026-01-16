@@ -1,16 +1,11 @@
-<h1 align="center">Vitória Baltazar Dev 🔴</h1>
-<p align="center">Estudante de ADS | Python, JavaScript e web | projetos com Pokémon, música e jogos</p>
-<p align="center">
-  Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong><br/>
-  📄 <a href="https://github.com/vicbaltazar/pokefolio/blob/main/CvVitoria.pdf" target="_blank">Currículo em PDF</a>
-</p>
+<h1 align="center">Vitória Baltazar Dev 🔴</h1> <p align="center">Desenvolvedora backend júnior | Python, JavaScript e web | projetos com Pokémon, música e jogos</p> <p align="center"> Main stack da treinadora: <strong>Python · JavaScript · SQL/NoSQL</strong><br/> 📄 <a href="https://github.com/vicbaltazar/pokefolio/blob/main/CvVitoria.pdf" target="_blank">Currículo em PDF</a> </p>
 ---
 
 ## 🌟 Trainer Card
   
 - 🧬 Classe: Desenvolvedora backend em formação  
 - 🌍 Região: Ribeirão Preto – SP, Brasil   
-- 🎯 Foco atual: estágio em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
+- 🎯 Foco atual: emprego em backend (Python, APIs, bancos de dados) e projetos web em JavaScript  
 
 ---
 
