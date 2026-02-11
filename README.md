@@ -28,9 +28,6 @@
   </samp>
 </div>
 
-<br>
-<br>
-
 <div align="center">
   <samp>
     <b>Techs que estudo</b>
