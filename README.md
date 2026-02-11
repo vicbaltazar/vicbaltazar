@@ -51,16 +51,16 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vicbaltazar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vicbaltazar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img
+    width="49%"
+    height="195px"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+    alt="Vitória Baltazar GitHub stats"
+  />
+  <img
+    width="41%"
+    height="195px"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+    alt="Linguagens mais usadas"
+  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicbaltazar/vicbaltazar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicbaltazar/vicbaltazar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vicbaltazar/vicbaltazar/output/pacman-contribution-graph.svg">
-</picture>
-
-###
