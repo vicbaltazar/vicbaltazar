@@ -20,6 +20,8 @@
     ʚ : Python | JavaScript | React | SQL/SQLite ›› <br><br>
   </samp>
 
+  href="https://github.com/vicbaltazar/pokefolio/blob/main/CvVitoria.pdf" target="_blank">Currículo em PDF</a> </p>
+
 </div>
 
 <div align="center">
