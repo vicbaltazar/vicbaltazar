@@ -24,12 +24,6 @@
 
 <div align="center">
   <samp>
-    " by uva, rock brasileiro e códigos noturnos "
-  </samp>
-</div>
-
-<div align="center">
-  <samp>
     <b>Techs que estudo</b>
   </samp>
   <br><br>
