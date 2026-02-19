@@ -16,7 +16,7 @@
   </samp>
 
   <samp>
-    ʚ : backend & front-end em formação ›› <br>
+    ʚ : fullstack em formação ›› <br>
     ʚ : Python | JavaScript | React | SQL/SQLite ›› <br><br>
   </samp>
 
