@@ -1,78 +1,109 @@
 <br>
-<br>
-<br>
 
 <div align="center">
-  <img align="center" height="150" src="snoopyyy.png" />
+  <img align="center" height="160" src="snoopyyy.png" />
 </div>
 
-<div align="center">
-  
-  <b>`｡𖦹 hello world ! .̣ `</b>
-  <samp>
-      <br>
-      <br>
-      I'm <b>Vitória Baltazar</b> XD
-  </samp>
+<br>
 
-  <samp>
-    ʚ : fullstack em formação ›› <br>
-    ʚ : Python | JavaScript | React | SQL/SQLite ›› <br><br>
-  </samp>
+<div align="center">
+
+```
+ ˚₊· ͟͟͞͞➳❥  hello world !  ₊˚ʚ ᗢ₊˚✧ ﾟ.
+```
 
 </div>
 
 <div align="center">
   <samp>
-    <b>Techs que estudo</b>
+    <b>I'm Vitória Baltazar</b> — fullstack em formação ✦
   </samp>
-  <br><br>
+</div>
+
+<br>
+
+<div align="center">
+
+```
+  ʚ  Python · JavaScript · TypeScript · React · SQL  ɞ
+```
+
+</div>
+
+<br>
+
+-----
+
+<div align="center">
+  <samp><b>✦ techs que estudo ✦</b></samp>
+</div>
+
+<br>
+
+<div align="center">
+
+**Linguagens**
 
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffde57"/>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff91a4"/>
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+**Frontend**
+
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  <br>
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+**Backend & Banco de Dados**
+
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
   <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-  <br>
+
+**Ferramentas**
+
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
+</div>
+
+<br>
+
+-----
+
+<div align="center">
+  <samp><b>✦ onde me encontrar ✦</b></samp>
 </div>
 
 <br>
 
 <div align="center">
-  <samp>
-    <b>Onde me encontrar</b>
-  </samp>
-  <br><br>
-
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="28"/>
   </a>
+  &nbsp;
   <a href="https://discord.gg/CMSB66zu">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA" height="28"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/vicfelas/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" height="28"/>
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <samp>
-    <b>Stats do GitHub</b>
-  </samp>
-  <br><br>
+-----
 
+<div align="center">
+  <samp><b>✦ github stats ✦</b></samp>
+</div>
+
+<br>
+
+<div align="center">
   <img
     width="49%"
     height="195px"
@@ -86,3 +117,13 @@
     alt="Linguagens mais usadas"
   />
 </div>
+
+<br>
+
+<div align="center">
+  <samp>
+    <sub>✦ feito com carinho ✦</sub>
+  </samp>
+</div>
+
+<br>
