@@ -16,7 +16,7 @@
 
 <div align="center">
   <samp>
-    <b>I'm Vitória Baltazar</b> — fullstack em formação ✦
+    <b>I'm Vitória Baltazar</b> — fullstack ✦
   </samp>
 </div>
 
