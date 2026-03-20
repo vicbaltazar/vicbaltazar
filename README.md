@@ -25,7 +25,7 @@
 <div align="center">
 
 ```
-  ʚ  Python · JavaScript · TypeScript · React · SQL  ɞ
+  ʚ  Python · JavaScript · Java · React · SQL  ɞ
 ```
 
 </div>
