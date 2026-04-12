@@ -68,7 +68,7 @@
     <b>My Portfolio</b>
     <br><br>
     ✦ <a href="https://vicbaltazar.github.io/vbfolio/">vicbaltazar.github.io/vbfolio</a> <br>
-    ✦ chico bento fan page - <i><a href="https://github.com/vicbaltazar/Chico-Bento">github.com/vicbaltazar/Chico-Bento</a></i> 🐾
+    ✦ chico bento fan page - <i><a href="https://chico-bento.vercel.app/">github.com/vicbaltazar/Chico-Bento</a></i> 🐾
   </samp>
 </div>
 <br>
