@@ -86,16 +86,8 @@
 <br>
 
 <div align="center">
-  <a href="https://vicbaltazar.github.io/vbfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=github-pages&logoColor=ff91a4" height="28"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/CMSB66zu">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289DA" height="28"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/vicfelas/">
