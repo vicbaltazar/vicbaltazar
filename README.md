@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-  <b>`˚₊· ͟͟͞͞➳❥  hello world !  ₊˚ʚ ᗢ₊˚✧ ﾟ.`</b>
+  <b>`˚₊· ͟͟͞͞➳❥  hello world ! ≽^•⩊•^≼`</b>
   <samp>
       <br>
       <br>
