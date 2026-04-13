@@ -43,6 +43,19 @@
 <br>
 
 <div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+  />
+  <img
+    width="41%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+  />
+</div>
+
+<br>
+
+<div align="center">
   <samp>
     ♡ <a href="https://www.instagram.com/vicfelas/">instagram</a> ⊹
     <a href="https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/">linkedin</a> ♡
