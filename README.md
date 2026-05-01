@@ -71,7 +71,7 @@ Stack atual inclui **React**, **Tailwind**, **Node.js**, **PostgreSQL**, **SQLit
 
 ---
 
-## 📜 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
