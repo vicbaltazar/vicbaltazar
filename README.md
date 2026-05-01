@@ -13,14 +13,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vicbaltazar&style=flat-square&color=ff91a4&label=PROFILE+VIEWS)
-
-</div>
-
 ---
 
 **Fullstack Developer**
