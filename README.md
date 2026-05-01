@@ -19,7 +19,7 @@
 
 > *"powered by monster, mpb and psychoanalytic ideas"*
 
-Desenvolvedor fullstack apaixonado por criar experiências completas — do backend robusto ao frontend refinado. Trabalho com **Python**, **Java**, **JavaScript** e **TypeScript**, sempre buscando código limpo e soluções elegantes.
+Desenvolvedor fullstack apaixonado por criar experiências completas do backend robusto ao frontend refinado. Trabalho com **Python**, **Java**, **JavaScript** e **TypeScript**, sempre buscando código limpo e soluções elegantes.
 
 Stack atual inclui **React**, **Tailwind**, **Node.js**, **PostgreSQL**, **SQLite** e **Git**. Em constante evolução. 🐾
 
