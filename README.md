@@ -19,14 +19,14 @@
 
 > *"powered by monster, mpb and psychoanalytic ideas"*
 
-Desenvolvedor fullstack apaixonado por criar experiências completas do backend robusto ao frontend refinado. Trabalho com **Python**, **Java**, **JavaScript** e **TypeScript**, sempre buscando código limpo e soluções elegantes.
+Desenvolvedora fullstack apaixonada por criar experiências completas do backend robusto ao frontend refinado. Trabalho com **Python**, **Java**, **JavaScript** e **TypeScript**, sempre buscando código limpo e soluções elegantes.
 
 Stack atual inclui **React**, **Tailwind**, **Node.js**, **PostgreSQL**, **SQLite** e **Git**. Em constante evolução. 🐾
 
 <img align="right" width="200px" src="https://raw.githubusercontent.com/vicbaltazar/vicbaltazar/main/snoopyyy.png" alt="vic"/>
 
 ```
-◈  Name      →  vic
+◈  Name      →  vitória
 ◈  Role      →  Fullstack Developer
 ◈  Origin    →  Brazil 🇧🇷
 ◈  Fuel      →  Monster + MPB
