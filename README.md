@@ -86,11 +86,3 @@ Stack atual inclui **React**, **Tailwind**, **Node.js**, **PostgreSQL**, **SQLit
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vicbaltazar&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&area_color=3d0010&hide_border=false&border_color=2a2a2a&title_color=ff91a4)](https://github.com/vicbaltazar)
 
 </div>
-
----
-
-<div align="center">
-
-*♡ by vic ♡*
-
-</div>
