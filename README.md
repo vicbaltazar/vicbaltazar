@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicbaltazar)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicbaltazar/)
 
 </div>
 
