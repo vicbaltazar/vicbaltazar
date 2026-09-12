@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FF91A4&center=true&vCenter=true&width=600&lines=Fullstack+Developer;powered+by+energético%2C+mpb+and+psychoanalytic+ideas.;by+vicfelas+%E2%99%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FF91A4&center=true&vCenter=true&width=600&lines=Fullstack+Developer;powered+by+energ%C3%A9tico%2C+mpb+and+psychoanalytic+ideas.;by+vicfelas+%E2%99%A1" alt="Typing SVG"/>
 </div>
 
 <br/>
