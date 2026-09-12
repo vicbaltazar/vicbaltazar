@@ -57,24 +57,3 @@ Stack atual inclui **React**, **Tailwind**, **Node.js**, **PostgreSQL**, **SQLit
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
-
----
-
-## Statistics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicbaltazar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicbaltazar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vicbaltazar&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&area_color=3d0010&hide_border=false&border_color=2a2a2a&title_color=ff91a4)](https://github.com/vicbaltazar)
-
-</div>
