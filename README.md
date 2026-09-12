@@ -8,7 +8,7 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/httpsvis)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriabaltazar/)
 
 </div>
