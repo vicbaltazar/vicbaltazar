@@ -1,6 +1,5 @@
-<!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00FFCC&background=000000&center=true&vCenter=true&width=650&lines=VitóriaOS+v1.0.0;Fullstack+Developer+%26+Mestre+Pokémon;powered+by+energético,+MPB+e+gato+Chico+Bento;by+vicfelas+♡" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=FF91A4&center=true&vCenter=true&width=600&lines=Fullstack+Developer;powered+by+energ%C3%A9tico%2C+mpb+and+psychoanalytic+ideas.;by+vicfelas+%E2%99%A1" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -8,18 +7,58 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&borderColor=000)](https://www.instagram.com/httpsvis)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriabaltazar/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicbaltazar)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/httpsvis)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriabaltazar/)
 
 </div>
 
 ---
 
-### ~/sobre-mim.txt
+**Fullstack Developer**
 
-> *"powered by energético, mpb, Pokémon e ideias psicanalíticas"*
+> *"powered by energético, mpb and psychoanalytic ideas"*
 
-Desenvolvedora fullstack, estudante de Ciência da Computação na Estácio e aprendiz de ADM na Viação Sertanezina. Construo aplicações web com a mesma energia de quem treina um time de Pokémon e ouve MPB e rock nacional no talo. 
+Desenvolvedora fullstack apaixonada por criar experiências completas do backend robusto ao frontend refinado. Trabalho com **Python**, **Java**, **JavaScript** e **TypeScript**, sempre buscando código limpo e soluções elegantes.
 
-<img align="right" width="220px" src="https://raw.githubusercontent.com/vicbaltazar/vicbaltazar/main/snoopyyy.png" alt="vic"/>
+Stack atual inclui **React**, **Tailwind**, **Node.js**, **PostgreSQL**, **SQLite** e **Git**. Em constante evolução. 🐾
+
+<img align="right" width="200px" src="https://raw.githubusercontent.com/vicbaltazar/vicbaltazar/main/snoopyyy.png" alt="vic"/>
+
+```
+◈  Name      →  vitória
+◈  Role      →  Fullstack Developer
+◈  Origin    →  Brazil 🇧🇷
+◈  Fuel      →  Energético + MPB
+◈  Status    →  Building. Always building.
+```
+
+<br clear="right"/>
+
+---
+
+## Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffde57)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff91a4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+ 
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+ 
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+ 
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
